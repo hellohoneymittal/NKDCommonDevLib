@@ -1,0 +1,7 @@
+{
+  "name": "nkd-common-dev-lib",
+  "version": "1.0.0",
+  "description": "Common utility library for Cloudflare Workers",
+  "type": "module",
+  "main": "src/index.js"
+}
